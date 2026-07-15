@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 
 import Abe1 from "../assets/abegail/abe1.png";
-import Abe2 from "../assets/abegail/abe2.png";
+
 import Abe3 from "../assets/abegail/abe3.png";
 import Abe4 from "../assets/abegail/abe4.png";
 import Abe5 from "../assets/abegail/abe5.png";
@@ -11,7 +11,6 @@ function Pictures() {
 
   const pictures = [
     Abe1,
-    
     Abe3,
     Abe4,
     Abe5,
