@@ -94,7 +94,7 @@ function YouAreInvited() {
     You Deserve It ❤️
   </button>
 
-</div>
+</div> 
 
         {/* Message Box */}
         <div className="mx-4 m-6 mt-6 p-6 rounded-2xl border border-blue-500 bg-white/10 backdrop-blur-md">
