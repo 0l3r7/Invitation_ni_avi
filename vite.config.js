@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  plugins: [tailwindcss(),react()],
-   base: "/Invitation_ni_avi/",
+  plugins: [tailwindcss(), react()],
+  base: "/Invitation_ni_avi/",
 })
